@@ -105,8 +105,8 @@ For $z^2 + b z + c$:
 ### 1. Clone
 
 ```bash
-git clone https://github.com/jafeeri/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/jafeeri/Smart-Traffic-Control-System.git
+cd Smart-Traffic-Control-System
 ```
 
 ### 2. Create a virtual environment
