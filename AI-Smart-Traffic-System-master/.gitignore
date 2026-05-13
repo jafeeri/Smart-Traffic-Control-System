@@ -1,0 +1,80 @@
+# =============================================================================
+# .gitignore for the Closed-Loop Traffic Signal Control project
+# =============================================================================
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.Python
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+wheels/
+*.egg
+MANIFEST
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- IDEs / editors ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.spyderproject
+.spyproject
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Project-specific artefacts ----
+# Backup of presentation produced by python-pptx round-trip (not the deliverable)
+AI_Traffic_Control_Presentation_re.pptx
+
+# Intermediate PDF / temp QA outputs
+AI_Traffic_Control_Presentation.pdf
+_qa_render.ps1
+
+# Original zip archive (we have the unzipped source)
+AI-Smart-Traffic-System-master.zip
+
+# Video files (typically too big and personal; commit selected videos by name only)
+*.mp4
+*.avi
+*.mov
+*.mkv
+!Demo.gif
+
+# Outputs from the YOLO video detector
+annotated.mp4
+
+# Node artefacts from the presentation builder (we keep build_presentation.js, not deps)
+node_modules/
+package-lock.json
+package.json
+
+# Matplotlib font cache
+.matplotlib/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Coverage / testing
+.coverage
+.pytest_cache/
+htmlcov/
