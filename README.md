@@ -178,14 +178,9 @@ python detect_vehicles_video.py path/to/video.mp4
 ├── bode_margins.png            # Pre-rendered discrete Bode with PM/GM annotations
 ├── step_response.png           # Pre-rendered step-disturbance response
 │
-├── AI_Traffic_Control_Presentation.pptx   # Defense slide deck (15 slides)
-├── DEFENSE_CHEATSHEET.md       # Viva preparation cheat sheet
-├── PRESENTATION_GUIDE.txt      # Slide-by-slide presenter scripts + Q&A bank
-├── TRANSFER_FUNCTIONS.txt      # One-page transfer-function reference card
-│
 ├── requirements.txt
 ├── README.md                   # this file
-└── LICENSE
+
 ```
 
 ---
