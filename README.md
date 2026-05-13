@@ -243,38 +243,20 @@ Gains were tuned by empirical Ziegler-Nichols sweep on the simulator, then verif
 
 ---
 
-## Defense materials
-
-For viva preparation, see:
-
-- **[DEFENSE_CHEATSHEET.md](DEFENSE_CHEATSHEET.md)** &mdash; condensed control-systems Q&A
-- **[PRESENTATION_GUIDE.txt](PRESENTATION_GUIDE.txt)** &mdash; full slide-by-slide presenter scripts plus Q&A bank for both control and DL examiners
-- **[TRANSFER_FUNCTIONS.txt](TRANSFER_FUNCTIONS.txt)** &mdash; one-page reference card with every transfer function and pole location
-
----
-
 ## Authors
 
 | Name              | Registration |
 |-------------------|--------------|
 | Syed Ali Medhi    | 454054       |
-| Abdullah Latif    | 469180       |
-| Haseeb Javaid     | 478317       |
-| Obaid             | 460745       |
 
 **Course Instructor:** Dr. Farid Gul
-**Lab Engineer:** Yasit Rizwan
+**Lab Engineer:** Yasir Rizwan
 
 ---
 
 ## Acknowledgements
 
-We are deeply grateful to Dr. Farid Gul for his rigorous guidance throughout EE-330 Linear Control Systems and for insisting on the classical-control discipline that pushed this project from a software demo into a defensible feedback-control design. We also thank Lab Engineer Yasit Rizwan for hands-on lab supervision and his suggestions on the AI module, and NUST-SEECS for the academic environment that made this work possible.
+We are deeply grateful to Dr. Farid Gul for his rigorous guidance throughout EE-330 Linear Control Systems and for insisting on the classical-control discipline that pushed this project from a software demo into a defensible feedback-control design. We also thank Lab Engineer Yasir Rizwan for hands-on lab supervision and his suggestions on the AI module, and NUST-SEECS for the academic environment that made this work possible.
 
 The base simulation environment is adapted from the open-source [AI-Smart-Traffic-System](https://github.com/) project; the control-systems wrapping, mathematical model, stability analysis, and PI controller are original work.
 
----
-
-## License
-
-This project is released under the terms of the [MIT License](LICENSE).
