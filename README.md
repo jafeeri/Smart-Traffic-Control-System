@@ -243,17 +243,6 @@ Gains were tuned by empirical Ziegler-Nichols sweep on the simulator, then verif
 
 ---
 
-## Authors
-
-| Name              | Registration |
-|-------------------|--------------|
-| Syed Ali Medhi    | 454054       |
-
-**Course Instructor:** Dr. Farid Gul
-**Lab Engineer:** Yasir Rizwan
-
----
-
 ## Acknowledgements
 
 We are deeply grateful to Dr. Farid Gul for his rigorous guidance throughout EE-330 Linear Control Systems and for insisting on the classical-control discipline that pushed this project from a software demo into a defensible feedback-control design. We also thank Lab Engineer Yasir Rizwan for hands-on lab supervision and his suggestions on the AI module, and NUST-SEECS for the academic environment that made this work possible.
